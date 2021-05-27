@@ -1,0 +1,24 @@
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.exe
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\geyda\source\repos\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.pdb
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.csprojAssemblyReference.cache
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.pdb
+C:\Users\geyda\source\repos\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.exe
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\bin\Debug\netcoreapp3.1\Task 2.pdb
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\Sergey\Desktop\Новая папка (3)\Lab 1\Task 2\obj\Debug\netcoreapp3.1\Task 2.pdb
